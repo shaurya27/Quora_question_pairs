@@ -7,5 +7,6 @@ In this project, I have used Lstm + Glove word embeddings to identify the quesio
 * Keras
 * pandas
 * Matplotlib
+* Nltk
 # Refrence
 Kaggle's Kernel
